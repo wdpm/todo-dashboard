@@ -84,4 +84,5 @@
     - 基本不处理 edge cases，输出信息不正确。不推荐。
 - [ ] [git-plus](https://github.com/tkrajina/git-plus)
 - [ ] [gita](https://github.com/nosarthur/gita)
-- https://stackoverflow.com/a/52016506 - bash script，推荐。
+- [x] https://stackoverflow.com/a/41274966 - bash script，推荐。
+  > `find . -name .git -print -execdir git status \;`

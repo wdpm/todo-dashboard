@@ -9,10 +9,9 @@ Aim to manage GitHub repos and stars, Douban books, or manual plans.
 模块划分
 
 - github star 和 github repo 管理
-
 - 本地git repo status可视化。提醒及时提交
-
 - 豆瓣书单 想读 已读 在读 管理
+- manning wish list
 
 技术选型
 
